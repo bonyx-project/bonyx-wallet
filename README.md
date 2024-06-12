@@ -19,8 +19,6 @@ Alternative way is to create git submodule:
 git submodule add https://github.com/bonyx-project/bonyx-wallet.git cryptonote
 ```
 
-Replace URL with git remote repository of your coin.
-
 **3. Build**
 
 ```
