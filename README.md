@@ -1,5 +1,7 @@
 # Bonyx wallet
 
+For OS Ubuntu 16.04.7 LTS (Xenial Xerus):
+
 **1. Clone wallet sources**
 
 ```
