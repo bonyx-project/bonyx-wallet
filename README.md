@@ -1,4 +1,4 @@
-# Bonyx wallet.
+# Bonyx wallet
 
 **1. Clone wallet sources**
 
