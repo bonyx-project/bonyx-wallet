@@ -35,3 +35,4 @@ mkdir build && cd build && cmake .. && make
 ```
 
 Note: You must be in /bonyx-wallet/build/ directory.
+You must build [Bonyx](https://github.com/bonyx-project/bonyx/) first.
