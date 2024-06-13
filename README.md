@@ -26,3 +26,12 @@ git submodule add https://github.com/bonyx-project/bonyx-wallet.git cryptonote
 ```
 mkdir build && cd build && cmake .. && make
 ```
+
+
+**Run**
+
+```
+./bonyx
+```
+
+Note: You must be in /bonyx-wallet/build/ directory.
