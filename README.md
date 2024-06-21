@@ -1,6 +1,7 @@
 # Bonyx wallet
 
 For OS Ubuntu 16.04.7 LTS (Xenial Xerus):
+
 You must build [Bonyx](https://github.com/bonyx-project/bonyx/) first.
 Easy install Bonyx wallet in 3 steps.
 
@@ -25,6 +26,7 @@ mkdir build && cd build && cmake .. && make
 
 
 **Run**
+
 You must be in /bonyx-wallet/build/ directory.
 
 ```
