@@ -1,6 +1,8 @@
 # Bonyx wallet
 
 For OS Ubuntu 16.04.7 LTS (Xenial Xerus):
+You must build [Bonyx](https://github.com/bonyx-project/bonyx/) first.
+Easy install Bonyx wallet in 3 steps.
 
 **1. Clone wallet sources**
 
@@ -8,17 +10,11 @@ For OS Ubuntu 16.04.7 LTS (Xenial Xerus):
 git clone https://github.com/bonyx-project/bonyx-wallet.git
 ```
 
-**2. Set symbolic link to coin sources at the same level as `src`. For example:**
+**2. Set symbolic link to coin sources at the same level as `src`**
 
 ```
 cd bonyx-wallet
 ln -s ../bonyx cryptonote
-```
-
-Alternative way is to create git submodule:
-
-```
-git submodule add https://github.com/bonyx-project/bonyx-wallet.git cryptonote
 ```
 
 **3. Build**
@@ -29,10 +25,8 @@ mkdir build && cd build && cmake .. && make
 
 
 **Run**
+You must be in /bonyx-wallet/build/ directory.
 
 ```
 ./bonyx
 ```
-
-Note: You must be in /bonyx-wallet/build/ directory.
-You must build [Bonyx](https://github.com/bonyx-project/bonyx/) first.
