@@ -4,6 +4,8 @@ For OS Ubuntu 16.04.7 LTS (Xenial Xerus):
 
 You must build [Bonyx](https://github.com/bonyx-project/bonyx/) first. Easy install Bonyx wallet in 3 steps:
 
+Open Terminal - CTRL + ALT + T
+
 **1. Clone wallet sources**
 
 ```
