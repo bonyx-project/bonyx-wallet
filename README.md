@@ -12,7 +12,7 @@ Open Terminal - CTRL + ALT + T
 git clone https://github.com/bonyx-project/bonyx-wallet.git
 ```
 
-**2. Set symbolic link to coin sources at the same level as `src`**
+**2. Set symbolic link to Bonyx sources at the same level as `src`**
 
 ```
 cd bonyx-wallet
