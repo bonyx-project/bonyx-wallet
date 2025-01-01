@@ -9,6 +9,7 @@ Open Terminal - CTRL + ALT + T
 **1. Clone wallet sources**
 
 ```
+cd
 git clone https://github.com/bonyx-project/bonyx-wallet.git
 ```
 
@@ -31,5 +32,7 @@ mkdir build && cd build && cmake .. && make
 You must be in /bonyx-wallet/build/ directory.
 
 ```
+cd
+cd bonyx-walet/build
 ./bonyx
 ```
