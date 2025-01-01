@@ -33,6 +33,6 @@ You must be in /bonyx-wallet/build/ directory.
 
 ```
 cd
-cd bonyx-walet/build
+cd bonyx-wallet/build
 ./bonyx
 ```
