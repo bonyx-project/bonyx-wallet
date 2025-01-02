@@ -76,8 +76,8 @@
       <widget class="QLineEdit" name="m_mixinEdit">
        <property name="maximumSize">
         <size>
-         <width>30</width>
-         <height>16777215</height>
+         <width>0</width>
+         <height>0</height>
         </size>
        </property>
        <property name="text">
