@@ -41,7 +41,7 @@
       </sizepolicy>
      </property>
      <property name="text">
-      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The Bonyx Project version %1&lt;/p&gt;&lt;p&gt;Bonyx is the next generation private cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright © 2024 The Bonyx Project. All rights reserved.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://bonyx.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://bonyx.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The Bonyx Project version %1&lt;/p&gt;&lt;p&gt;Bonyx is the next generation private cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright © 2024 The Bonyx Project. All rights reserved.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/bonyx-project&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://github.com/bonyx-project&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://bonyx.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://bonyx.org&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
      </property>
      <property name="textFormat">
       <enum>Qt::RichText</enum>
