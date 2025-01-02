@@ -131,12 +131,12 @@
       <widget class="QSlider" name="m_mixinSlider">
        <property name="maximumSize">
         <size>
-         <width>200</width>
-         <height>16777215</height>
+         <width>0</width>
+         <height>0</height>
         </size>
        </property>
        <property name="maximum">
-        <number>10</number>
+        <number>0</number>
        </property>
        <property name="pageStep">
         <number>1</number>
